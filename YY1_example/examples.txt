@@ -1,0 +1,5 @@
+** Copy and paste to console to run GITTAR **
+
+Human YY1:
+./gittar -m YY1.MOTIF -e YY1.expr -s YY1.seq -v -g 10 100 100 &
+

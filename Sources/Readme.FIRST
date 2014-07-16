@@ -1,0 +1,10 @@
+Extract all source files in one folder. To build GITTAR, simply type:
+
+make
+
+in command line. It will automatically start building the executable files for GITTAR.
+After that, if you want to clean your folder, simply type:
+
+make clean
+
+in command line. It will delete all object files and the executables.
